@@ -1,0 +1,7 @@
+D:\Priya\Projects\MethodBasics\MethodDemo\MethodDemo\bin\Debug\MethodDemo.exe.config
+D:\Priya\Projects\MethodBasics\MethodDemo\MethodDemo\bin\Debug\MethodDemo.exe
+D:\Priya\Projects\MethodBasics\MethodDemo\MethodDemo\bin\Debug\MethodDemo.pdb
+D:\Priya\Projects\MethodBasics\MethodDemo\MethodDemo\obj\Debug\MethodDemo.csprojAssemblyReference.cache
+D:\Priya\Projects\MethodBasics\MethodDemo\MethodDemo\obj\Debug\MethodDemo.csproj.CoreCompileInputs.cache
+D:\Priya\Projects\MethodBasics\MethodDemo\MethodDemo\obj\Debug\MethodDemo.exe
+D:\Priya\Projects\MethodBasics\MethodDemo\MethodDemo\obj\Debug\MethodDemo.pdb
